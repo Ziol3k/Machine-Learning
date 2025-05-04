@@ -3,7 +3,7 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.10" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12.3 WSL (Ubuntu-24.04): (/home/ziolo/.virtualenvs/Machine Learning/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Machine_Learning" project-jdk-type="Python SDK" />
   <component name="PyPackaging">
     <option name="earlyReleasesAsUpgrades" value="true" />
   </component>
