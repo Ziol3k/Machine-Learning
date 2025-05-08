@@ -9,11 +9,11 @@
 ## Exercise 3 Decision trees ✅
 [Code:](https://github.com/Ziol3k/Machine-Learning/blob/master/trees/055Decision_trees_Exercises.ipynb)
 
-## Exercise 4 SVM ❌
-[Code:]()
+## Exercise 4 SVM ✅
+[Code:](https://github.com/Ziol3k/Machine-Learning/blob/master/svm/065_SVM_Exercises.ipynb)
 
-## Exercise 5 Ensemble ❌
-[Code:]()
+## Exercise 5 Ensemble ✅
+[Code:](https://github.com/Ziol3k/Machine-Learning/blob/master/ensemble/075Ensemble_Exercises.ipynb)
 
 ## Exercise 6 NLP ❌
 [Code:]()
