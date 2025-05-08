@@ -15,5 +15,5 @@
 ## Exercise 5 Ensemble ✅
 [Code:](https://github.com/Ziol3k/Machine-Learning/blob/master/ensemble/075Ensemble_Exercises.ipynb)
 
-## Exercise 6 NLP ❌
-[Code:]()
+## Exercise 6 NLP ✅
+[Code:](https://github.com/Ziol3k/Machine-Learning/blob/master/nlp/106_NLP_Exercises.ipynb)
